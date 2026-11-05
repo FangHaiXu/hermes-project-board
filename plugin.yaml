@@ -1,0 +1,9 @@
+name: project-board
+version: "1.0.0"
+description: "项目看板 — 把本机项目加入看板，一键启动 / 停止 / 重启，实时查看日志（Hermes Desktop 页面 + FastAPI 后端）。"
+author: local
+kind: standalone
+requires_hermes: ">=0.20.2"
+requires_env: []
+provides_tools: []
+provides_hooks: []

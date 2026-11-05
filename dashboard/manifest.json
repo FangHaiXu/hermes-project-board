@@ -1,0 +1,11 @@
+{
+  "name": "project-board",
+  "label": "项目看板",
+  "description": "本机项目进程管理：启动 / 停止 / 重启 / 日志。UI 在 Hermes Desktop 的 desktop/plugin.js 中渲染，本 manifest 只负责挂载后端路由。",
+  "icon": "Rocket",
+  "version": "1.0.0",
+  "tab": { "hidden": true },
+  "slots": [],
+  "entry": "dist/index.js",
+  "api": "plugin_api.py"
+}
